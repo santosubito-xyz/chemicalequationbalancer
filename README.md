@@ -1,2 +1,2 @@
 # chemicalequationbalancer
-Software for balancing chemical equations
+Software for balancing chemical equations this software is hosted on the santosubito.xyz website.
